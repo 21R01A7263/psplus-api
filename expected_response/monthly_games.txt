@@ -1,0 +1,24 @@
+[
+    {
+        "catalogueName": "Playstation Plus Monthly Games",
+        "description" : "A fresh selection of games refreshed every month, and yours to keep for as long as you’re a member",
+        "count": //the count of included games here,
+        "games": [
+            {
+                "id": //a bcrypt encrypted version of "conceptId" will be here
+                "conceptId": 10005843, //this is just an example value, actual value from API will be here.
+                "name": "A Space for the Unbound", //this is just an example value, actual value from API will be here.
+                "nameEn": "A Space for the Unbound", //this is just an example value, actual value from API will be here.
+                "conceptUrl": "https://store.playstation.com/en-in/concept/10005843", //this is just an example value, actual value from API will be here.
+                "gameUrl": //same as "conceptURL"
+                "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1606/oXtps1uT1x0cAMxa6r1FtkhQ.png", //this is just an example value, actual value from API will be here.
+                "device": [ //this is just an example value, actual value from API will be here.
+                    "PS4"
+                ],
+                "available_on" : // same as "device"
+                "releaseDate": "2023-01-18T18:30:00Z", //this is just an example value, actual value from API will be here.
+            },
+            // and so on.......
+        ]
+    }
+]
