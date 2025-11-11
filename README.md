@@ -28,8 +28,6 @@ npm install
 node app.js
 ```
 
-Server listens on http://localhost:3000
-
 ## Notes
 - Data is loaded from the files in `full_responses/` and cached in-memory on first request for speed.
 - Sorting is case-sensitive locale compare by `name`.
