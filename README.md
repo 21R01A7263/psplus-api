@@ -1,6 +1,6 @@
 # PS Plus Catalogue API
 
-A fast, clean Express API that serves the current PlayStation Plus catalogues using pre-fetched responses stored locally in `full_responses/`.
+A fast, clean Express API that serves the current Play Station Plus catalogues using pre-fetched responses stored locally in `full_responses/`.
 
 ## Endpoints
 
